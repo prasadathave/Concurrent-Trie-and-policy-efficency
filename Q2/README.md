@@ -1,10 +1,5 @@
-# Assignment 2 Question 2
 
-In this question, complete individual files and implement in C and compare the various policies for caching. 
 
-**Do not change or remove the already defined functions and the defined functions should behave according to the given instructions.**
-
-You will be implementing: 
 
 Policies: LRU (exact and approx), FIFO, Random
 Workloads: 80-20, looping, random
